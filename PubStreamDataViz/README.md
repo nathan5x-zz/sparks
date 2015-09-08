@@ -1,6 +1,6 @@
 ## Public Data Stream Visualization
 Visualizing public data stream using different Web APIs and JS & CSS frameworks.
-[Demo - Data Visualization](http://people.rit.edu/sm2550/PubStreamDataViz/)
+[Demo - Data Visualization](http://people.rit.edu/sm2550/PublicDataViz/)
 
 ### Data Source
 
